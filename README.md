@@ -2,9 +2,9 @@
 ### course code: CS114A
 ### Lecturer: Ji-Cherng Lin
 
-作業在assignment檔案中都會有基哥給的說明
+Each assignment file contains instructions provided by Dr.Lin.
 
-寫到assignment 8 就停修了，最後兩個作業沒有Demo就沒上傳了
+I stopped after completing Assignment 8. The last two assignments didn’t have demos, so I didn’t upload them.
 
 | ASSIGNMENT | CONTENT |
 |------------|---------|
@@ -21,6 +21,6 @@
 |ASSIGMENT 9 & 10|Design an Object-Oriented UNI Air Booking System|
 |Final Exam |Design an Object-Oriented UNI Air Booking System|
 
-有任何程式問體歡迎寄email討論
+If you have any programming questions, feel free to email me for discussion.
 
 [ email:yuyu199127@gmail.com ]
